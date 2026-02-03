@@ -1,3 +1,3 @@
-const email = ''
-const birthDate = ''
-const password = ''
+let email = ''
+let birthDate = ''
+let password = ''
